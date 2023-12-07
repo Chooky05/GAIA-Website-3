@@ -22,7 +22,6 @@ body {
 h1 {
   text-align: center;
   background-color: #85d6a3;
-  padding: 3px;
   font-family: 'Roboto Condensed', sans-serif;
 
 }
@@ -31,7 +30,6 @@ h1 {
 h2 {
   text-align: center;
   background-color: #85d6a3;
-  padding: 3px;
   font-family: 'Roboto Condensed', sans-serif;
 
 }
@@ -40,7 +38,6 @@ h2 {
 h3 {
   text-align: center;
   background-color: #85d6a3;
-  padding: 3px;
   font-family: 'Roboto Condensed', sans-serif;
 
 }
@@ -49,7 +46,6 @@ h3 {
 p {
   text-align: center;
   background-color: #cef2db;
-  padding: 3px;
   font-family: 'Dosis', sans-serif;
 }
 
@@ -62,14 +58,12 @@ img {
 
 div {
   text-align: center;
-  padding: 50px;
 }
 
 
 footer {
   background-color: #85d6a3;
   text-align: center;
-  padding: 50px;
   font-family: 'Dosis', sans-serif;
 }
 
@@ -107,7 +101,6 @@ nav ul li a {
 .column {
   float: left;
   width: 25%;
-  padding: 20px;
 }
 
 
