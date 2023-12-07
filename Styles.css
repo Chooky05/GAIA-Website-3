@@ -14,6 +14,13 @@
 }
 
 
+.map {
+  border-style: solid;
+  border-width: 3px;
+  border-color: #2b2b2b;
+}
+
+
 body {
   background-color: #ffffff
 }
@@ -23,7 +30,9 @@ h1 {
   text-align: center;
   background-color: #e5cb6c;
   font-family: 'Roboto Condensed', sans-serif;
-
+  border-style: solid;
+  border-width: 3px;
+  border-color: #2b2b2b;
 }
 
 
@@ -31,7 +40,9 @@ h2 {
   text-align: center;
   background-color: #e5cb6c;
   font-family: 'Roboto Condensed', sans-serif;
-
+  border-style: solid;
+  border-width: 3px;
+  border-color: #2b2b2b;
 }
 
 
@@ -39,7 +50,9 @@ h3 {
   text-align: center;
   background-color: #e5cb6c;
   font-family: 'Roboto Condensed', sans-serif;
-
+  border-style: solid;
+  border-width: 3px;
+  border-color: #2b2b2b;
 }
 
 
@@ -47,6 +60,9 @@ p {
   text-align: center;
   background-color: #cccccc;
   font-family: 'Dosis', sans-serif;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #2b2b2b;
 }
 
 
